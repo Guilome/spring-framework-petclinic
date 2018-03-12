@@ -11,5 +11,5 @@
             <img class="img-responsive" src="${petsImage}"/>
         </div>
     </div>
-    <h2> ce chien et ce chat ne sont pas très beau</h2>
+    <h2><fmt:message key="Ce chien et ce chat ne sont pas très beau"/></h2
 </petclinic:layout>
