@@ -11,5 +11,5 @@
             <img class="img-responsive" src="${petsImage}"/>
         </div>
     </div>
-    <h2><fmt:message key="chien et chat"/></h2
+    <h2><fmt:message key="chien / chat"/></h2
 </petclinic:layout>
